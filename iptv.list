@@ -2,7 +2,6 @@
 
 DOMAIN-SUFFIX,epg.pw
 
-DOMAIN-KEYWORD,4gtv
 DOMAIN-KEYWORD,hkdvb
 DOMAIN-KEYWORD,hlove
 DOMAIN-KEYWORD,tivimate
@@ -10,11 +9,6 @@ DOMAIN-KEYWORD,jdiptv
 DOMAIN-KEYWORD,freetv
 DOMAIN-KEYWORD,mysupertv
 DOMAIN-KEYWORD,beesport
-
-
-DOMAIN-SUFFIX,litvpc-hichannel.cdn.hinet.net
-DOMAIN-SUFFIX,ntdfreevcpc-tgc.cdn.hinet.net
-
 
 DOMAIN-SUFFIX,mytvsuper.xyz
 DOMAIN-SUFFIX,beesport-ts.wx.sb
