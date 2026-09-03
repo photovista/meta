@@ -109,4 +109,4 @@ DOMAIN-SUFFIX,kd167n.proxy-cdn.ag
 DOMAIN-SUFFIX,rocketfx.uk
 DOMAIN-SUFFIX,now.amagi.tv
 DOMAIN-SUFFIX,proxy-cdn.ag
-
+IP-CIDR,161.129.60.242/32
